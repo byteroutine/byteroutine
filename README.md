@@ -8,6 +8,12 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Web+Scraping+%26+Automation+Expert;AI-Assisted+Software+Engineer;Building+Scalable+Workflows+%E2%9A%A1" alt="Typing SVG" />
   </p>
 
+  <p>
+    <b>Full-Stack Developer | Web Scrapers & Automation Systems | Building scalable web apps and high-performance workflows ⚡</b>
+  </p>
+
+  <br>
+
   <!-- Visitor Badge Counter -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=ByteRoutine&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Visitor Count" />
@@ -22,7 +28,7 @@
   <h3>⚡ Tech Stack & Ecosystem ⚡</h3>
   <br/>
 
-  <!-- Animated Skill Icons (Floating / Hover effect via Skill Icons) -->
+  <!-- High-End, Hover-Style Icon Grid -->
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,vite,tailwind,hono,selenium,cloudflare,linux,git,github&theme=dark" />
 
 </div>
@@ -31,10 +37,16 @@
 
 ## 🚀 Core Competencies
 
-* **🌐 Full-Stack Web Apps:** Architecting and deploying high-performance applications using modern stacks (**React, Vite, Hono, Cloudflare Workers/D1/R2**).
-* **🕷️ Web Scraping & Data Extraction:** Engineering resilient, bypass-resistant scrapers and robust data pipelines (**Playwright, Selenium, BeautifulSoup, Puppeteer**).
-* **⚡ Workflow Automation:** Automating repetitive operations, background processing tasks, and custom bot integrations.
-* **🤖 AI-Assisted Engineering:** Leveraging local and cloud models to rapidly deliver clean, production-grade code.
+<div align="center">
+
+| Skill | Details |
+| :--- | :--- |
+| **🌐 Full-Stack Web Apps** | Architecting and deploying high-performance applications using modern stacks (**React, Vite, Hono, Cloudflare Workers/D1/R2**). |
+| **🕷️ Web Scraping & Data Extraction** | Engineering resilient, bypass-resistant scrapers and robust data pipelines (**Playwright, Selenium, BeautifulSoup, Puppeteer**). |
+| **⚡ Workflow Automation** | Automating repetitive operations, background processing tasks, and custom bot integrations. |
+| **🤖 AI-Assisted Engineering** | Leveraging local and cloud models to rapidly deliver clean, production-grade code. |
+
+</div>
 
 ---
 
@@ -43,12 +55,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ByteRoutine&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteRoutine&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByteRoutine&theme=radical&hide_border=true" alt="GitHub Streak" width="75%" />
 </div>
 
 <br/>
