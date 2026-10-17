@@ -1,22 +1,15 @@
-<div align="center">
+<!-- Top Full-Width Animated Wave Background -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,18,25,30&height=180&section=header&text=Byte%20Routine&fontSize=42&fontColor=38BDF8&fontAlignY=45&animation=fadeIn&fontFamily=Fira+Code" width="100%" />
 
-  <!-- Dynamic Waving Header Banner with Glow -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,20,30&height=200&section=header&text=Byte%20Routine&fontSize=50&fontColor=38BDF8&fontAlignY=38&animation=fadeIn&fontFamily=Fira+Code&rotate=0" width="100%" />
+<div align="center">
 
   <!-- Multi-Line Typing Animation -->
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Web+Scraping+%26+Automation+Expert;AI-Assisted+Software+Engineer;Building+Scalable+Workflows+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Web+Scraping+%26+Automation+Expert;AI-Assisted+Software+Engineer;Building+Scalable+Workflows+%E2%9A%A1" alt="Typing SVG" />
   </p>
 
   <p>
     <b>Full-Stack Developer | Web Scrapers & Automation Systems | Building scalable web apps and high-performance workflows ⚡</b>
-  </p>
-
-  <br>
-
-  <!-- Visitor Badge Counter -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=ByteRoutine&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Visitor Count" />
   </p>
 
 </div>
@@ -28,7 +21,7 @@
   <h3>⚡ Tech Stack & Ecosystem ⚡</h3>
   <br/>
 
-  <!-- High-End, Hover-Style Icon Grid -->
+  <!-- Interactive Icon Grid -->
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,vite,tailwind,hono,selenium,cloudflare,linux,git,github&theme=dark" />
 
 </div>
@@ -67,8 +60,8 @@
 
 <div align="center">
 
-  <!-- Animated Footer Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,20,10,2,0&height=100&section=footer&animation=fadeIn" width="100%" />
+  <!-- Bottom Full-Width Animated Wave Background -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,25,18,4,0&height=120&section=footer&animation=fadeIn" width="100%" />
 
   <p><i>⚡ Let's build something exceptional together.</i></p>
 
