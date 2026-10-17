@@ -1,11 +1,11 @@
-<!-- Top Full-Width Animated Wave Background -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,18,25,30&height=180&section=header&text=Byte%20Routine&fontSize=42&fontColor=38BDF8&fontAlignY=45&animation=fadeIn&fontFamily=Fira+Code" width="100%" />
-
 <div align="center">
+
+  <!-- Clean, Full-Width Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,18,25,30&height=160&section=header&text=Byte%20Routine&fontSize=38&fontColor=38BDF8&fontAlignY=42&animation=fadeIn&fontFamily=Fira+Code" width="100%" />
 
   <!-- Multi-Line Typing Animation -->
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Web+Scraping+%26+Automation+Expert;AI-Assisted+Software+Engineer;Building+Scalable+Workflows+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Web+Scraping+%26+Automation+Expert;AI-Assisted+Software+Engineer;Building+Scalable+Workflows+%E2%9A%A1" alt="Typing SVG" />
   </p>
 
   <p>
@@ -60,8 +60,8 @@
 
 <div align="center">
 
-  <!-- Bottom Full-Width Animated Wave Background -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,25,18,4,0&height=120&section=footer&animation=fadeIn" width="100%" />
+  <!-- Bottom Wave Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,25,18,4,0&height=90&section=footer&animation=fadeIn" width="100%" />
 
   <p><i>⚡ Let's build something exceptional together.</i></p>
 
